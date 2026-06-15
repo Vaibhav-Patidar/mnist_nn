@@ -1,6 +1,5 @@
 *.npy
 *.csv
-plots
 nnet
 mnist_data
 __pycache__
