@@ -130,7 +130,7 @@ python3 plot.py
 
 **Why build from scratch?**
 
-Most deep learning tutorials start with PyTorch or TensorFlow. Building from scratch forces you to understand what `loss.backward()` and `optimizer.step()` actually do — which is compute gradients via the chain rule and subtract them from weights. This project makes that concrete.
+Most deep learning tutorials start with PyTorch or TensorFlow. Building from scratch forces you to understand what `loss.backward()` and `optimizer.step()` actually do which is compute gradients via the chain rule and subtract them from weights. This project makes that concrete.
 
 **Backpropagation**
 
@@ -153,7 +153,7 @@ matplotlib
 
 ## Author
 
-Vaibhav Patidar — B.Tech CS, JIIT Noida  
-Building toward a career in quantitative finance and Machine Learning through deep understanding of ML fundamentals.
+Vaibhav Patidar, B.Tech CS, JIIT Noida  
+Building toward a career in Quantitative Finance and Machine Learning through deep understanding of ML fundamentals.
 
 [LinkedIn](https://www.linkedin.com/in/vaibhav-patidar-b05235366/) | [GitHub](https://github.com/Vaibhav-Patidar)
