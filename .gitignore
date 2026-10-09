@@ -1,4 +1,4 @@
-*.npy
+
 *.csv
 nnet
 mnist_data
